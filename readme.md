@@ -1,1 +1,1 @@
-#Elasticsearch implementation in Laravel
+#Elasticsearch implementation in Laravel for E-Commerce_Shop project
